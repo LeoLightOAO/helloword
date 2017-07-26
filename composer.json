@@ -1,0 +1,15 @@
+{
+    "name": "light/helloworld",
+    "authors": [
+        {
+            "name": "Light",
+            "email": "googfrank@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Oomusou\\HelloWorld\\": "src/"
+        }
+    }
+}
